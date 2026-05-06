@@ -53,3 +53,8 @@ Options that do not produce fihes:
     --count
       counts how many sakanas are in the pond
 ```
+
+# installation
+There is only a [sbpm](https://github.com/RambilE/sbpm) way of installing this right now (or just manually copy the file to ~/.loca/bin)
+
+When i will "rewrite" sbpm in lua this will be the new way of installing this

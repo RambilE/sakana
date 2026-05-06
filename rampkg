@@ -1,0 +1,7 @@
+deplistPacman=(lua)
+
+provides=(sakana:"$HOME/.local/bin/sakana")
+
+SETUP() {
+echo May the fih be with you.
+}
