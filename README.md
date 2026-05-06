@@ -32,6 +32,8 @@
 
 A Lua script that will output a random ascii art that is fish, fish-containing or a fish-like creature.
 
+Careful: some fih may contain unicode characters
+
 # help
 
 ```
