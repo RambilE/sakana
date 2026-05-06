@@ -34,6 +34,7 @@ A Lua script that will output a random ascii art that is fish, fish-containing o
 
 # help
 
+```
 Usage: sakana [OPTIONS]
 
 Using without options will include all ascii arts (big and small)
@@ -49,3 +50,4 @@ Options that do not produce fihes:
       prints this text
     --count
       counts how many sakanas are in the pond
+```
